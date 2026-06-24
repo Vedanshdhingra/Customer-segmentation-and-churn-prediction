@@ -214,21 +214,10 @@ Telco_customer_churn.xlsx
 4. Open the notebook:
 
 ```bash
-jupyter notebook CBSOT_project1.ipynb
+jupyter notebook Customer_segmentation_and_churn_prediction.ipynb
 ```
 
 5. Run all cells.
-
-## Suggested Project Structure
-
-```text
-customer-churn-prediction-segmentation/
-│
-├── CBSOT_project1.ipynb
-├── Telco_customer_churn.xlsx
-├── README.md
-└── requirements.txt
-```
 
 ## Requirements
 
